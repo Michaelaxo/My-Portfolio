@@ -14,12 +14,10 @@
             padding: 0;
         }
         header {
-            background-image: url('images/Banner for Portfolio- Black.png'); /* Use the image for the banner */
+            background-image: url('images/Banner_for_Portfolio_Black.png');
             background-size: cover;
-            height: 300px; /* Adjust the height of the header */
-            color: white;
-            text-align: center;
-            padding: 40px 0;
+            background-position: center;
+            height: 300px; /* Increase if necessary */
         }
         header h1, header h2 {
             margin: 0;
